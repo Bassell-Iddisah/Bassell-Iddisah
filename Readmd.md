@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bassell Dari Iddisah</h1>
-<h3 align="center">A passionate backend developer from Ghana</h3>
+<h3 align="center">A passionate backend developer</h3>
 
-- 🔭 I’m currently working on **A university management system**
+- 🔭 I’m currently working on **An online platform for trading gently used school itemss**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Flask & Django**
 
 - 📫 How to reach me **bbasssell16@gmail.com**
 
