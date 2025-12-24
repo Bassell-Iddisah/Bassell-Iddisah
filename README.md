@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Bassell Iddisah
+# 👋 Hi, I’m Bassell Dari Iddisah
 
 **Backend Developer | Systems Thinker | Builder**
 
