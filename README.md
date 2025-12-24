@@ -1,18 +1,74 @@
-<h1 align="center">Hi 👋, I'm Bassell Dari Iddisah</h1>
-<h3 align="center">A passionate backend developer</h3>
+# 👋 Hi, I’m Bassell Iddisah
 
-- 🔭 I’m currently working on **An online platform for trading gently used school items**
+**Backend Developer | Systems Thinker | Builder**
 
-- 🌱 I’m currently learning **Django**
+I’m a backend-focused developer who enjoys turning ideas into working systems.  
+My strength lies in **clear thinking, structured execution, and building practical tools**—from web applications to learning systems and automation.
 
-- 📫 How to reach me **bbasssell16@gmail.com**
+I’m currently focused on becoming a **high-impact backend engineer**, with strong foundations in system design, data handling, and real-world problem solving.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/bassell iddisah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bassell iddisah" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🔧 What I’m Working On
+- Backend development with **Python & Java**
+- Building **monolithic systems** before scaling complexity
+- Applying **DSA and system thinking** through real projects
+- Designing tools that improve **learning, execution, and clarity**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bassell-iddisah&show_icons=true&locale=en&layout=compact" alt="bassell-iddisah" /></p>
+---
+
+## 🧠 How I Think & Work
+- Learn by **building**, not memorizing  
+- Prefer **simple, robust systems** over clever abstractions  
+- Optimize for **clarity → execution → iteration**  
+- Strong believer in foundations before frameworks  
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+- Python  
+- Java  
+
+### Backend & Web
+- Django  
+- Flask  
+- Spring Boot  
+- REST APIs  
+
+### Frontend
+- HTML5  
+- CSS3  
+- Thymeleaf  
+
+### Databases & Tools
+- PostgreSQL  
+- Git & GitHub  
+- IntelliJ / VS Code  
+- Figma (UI collaboration)
+
+---
+
+## 📈 Current Focus
+- Securing a **backend developer role**
+- Deepening **Java / Spring Boot** proficiency
+- Writing cleaner, more maintainable backend code
+- Improving professional communication & collaboration
+
+---
+
+## 🤝 Open To
+- Backend roles (remote or hybrid)
+- Serious technical discussions
+- Building with disciplined, growth-oriented people
+
+---
+
+## 📫 Contact
+- **Email:** bbasssell16@gmail.com  
+- **GitHub:** @bassell-iddisah  
+
+---
+
+> Quiet consistency. Strong fundamentals. Long-term thinking.
