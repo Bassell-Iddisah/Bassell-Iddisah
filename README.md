@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Bassell Dari Iddisah
 
-**Backend Developer | Systems Thinker | Builder**
+**Backend Engineer | Systems Thinker | Builder**
 
-I’m a backend-focused developer who enjoys turning ideas into working systems.  
+I’m a trench-drenched backend-focused engineer who enjoys turning ideas into working systems.  
 My strength lies in **clear thinking, structured execution, and building practical tools**—from web applications to learning systems and automation.
 
 I’m currently focused on becoming a **high-impact backend engineer**, with strong foundations in system design, data handling, and real-world problem solving.
