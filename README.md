@@ -14,6 +14,7 @@ I’m currently focused on becoming a **high-impact backend engineer**, with str
 - Building **monolithic systems** before scaling complexity
 - Applying **DSA and system thinking** through real projects
 - Designing tools that improve **learning, execution, and clarity**
+- Deepening my understanding of **blockchain tech and infrastructure**
 
 ---
 
@@ -51,15 +52,15 @@ I’m currently focused on becoming a **high-impact backend engineer**, with str
 ---
 
 ## 📈 Current Focus
-- Securing a **backend developer role**
-- Deepening **Java / Spring Boot** proficiency
-- Writing cleaner, more maintainable backend code
-- Improving professional communication & collaboration
+- 🔭 Securing a **backend developer role**
+- 🌱 Deepening **Java / Spring Boot** proficiency
+- 📚 Writing cleaner, more maintainable backend code
+- 🗣 Improving professional communication & collaboration
 
 ---
 
 ## 🤝 Open To
-- Backend roles (remote or hybrid)
+- Backend roles
 - Serious technical discussions
 - Building with disciplined, growth-oriented people
 
